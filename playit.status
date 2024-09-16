@@ -1,249 +1,315 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.23): 1726502556023 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.23): 1726509915950 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-century-pod.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726502559086 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-century-pod.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726502574184 tunnel running, 1 tunnels registered
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726509919011 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-century-pod.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726502577270 tunnel running, 1 tunnels registered
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726509922083 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-century-pod.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726502580336 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-century-pod.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726502583400 tunnel running, 1 tunnels registered
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726509925151 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-century-pod.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726502586461 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-century-pod.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726502589542 tunnel running, 1 tunnels registered
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726509928215 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-century-pod.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726502604660 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-century-pod.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726502607749 tunnel running, 1 tunnels registered
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726509931293 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-century-pod.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726502610813 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-century-pod.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726502613880 tunnel running, 1 tunnels registered
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726509934372 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-century-pod.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726502616943 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-century-pod.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726502632061 tunnel running, 1 tunnels registered
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726509937439 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-century-pod.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726502635145 tunnel running, 1 tunnels registered
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726509940515 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-century-pod.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726502638217 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-century-pod.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726502641294 tunnel running, 1 tunnels registered
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726509943588 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-century-pod.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726502644355 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-century-pod.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726502647413 tunnel running, 1 tunnels registered
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726509946677 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-century-pod.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726502662602 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-century-pod.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726502665683 tunnel running, 1 tunnels registered
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726509949769 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-century-pod.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726502668750 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-century-pod.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726502671810 tunnel running, 1 tunnels registered
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726509952840 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-century-pod.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726502674974 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-century-pod.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726502690079 tunnel running, 1 tunnels registered
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726509955912 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-century-pod.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726502693150 tunnel running, 1 tunnels registered
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726509958984 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-century-pod.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726502696217 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-century-pod.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726502699290 tunnel running, 1 tunnels registered
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726509962082 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-century-pod.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726502702360 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-century-pod.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726502705427 tunnel running, 1 tunnels registered
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726509965166 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-century-pod.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726502708491 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-century-pod.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.23): 1726502723842 tunnel running, 1 tunnels registered
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726509968235 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-century-pod.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726502726937 tunnel running, 1 tunnels registered
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726509971312 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-century-pod.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726502730015 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-century-pod.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726502733078 tunnel running, 1 tunnels registered
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726509974370 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-century-pod.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726502736171 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-century-pod.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726502739235 tunnel running, 1 tunnels registered
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726509977437 tunnel running, 1 tunnels registered
 
-Too many agents: https://playit.gg/account/agents
-
-TUNNELS
-century-pod.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726502742310 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
 
 TUNNELS
-century-pod.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mGot Error
-MSG: Failed to load latest tunnels
-Error: ClientError(TooManyRequests)
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726509980507 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726509983616 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726509986695 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726509989770 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726509992844 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726509996019 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726509999088 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726510002154 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726510005216 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726510008279 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726510011342 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726510014409 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726510017482 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726510020550 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726510023622 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726510026687 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726510029755 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726510032815 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726510035881 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726510038938 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726510041995 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726510045058 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726510048129 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726510051188 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726510054248 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726510057307 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726510060380 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726510063440 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726510066504 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726510069572 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726510072638 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726510075709 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726510078783 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726510081861 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726510084930 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726510087994 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726510091067 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726510094143 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726510097210 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726510100289 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726510103352 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726510106414 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+status-mailing.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
